@@ -1,3 +1,5 @@
 apple
-orange
+pear
 banana
+mango
+lemon
